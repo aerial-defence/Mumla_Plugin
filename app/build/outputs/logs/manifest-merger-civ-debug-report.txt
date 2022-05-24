@@ -1,0 +1,64 @@
+-- Merging decision tree log ---
+meta-data#plugin-api
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:14:9-81
+	android:value
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:14:46-79
+	android:name
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:14:20-45
+manifest
+ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:1:11-69
+	tools:ignore
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:4:5-44
+application
+ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:6:5-18:19
+	android:extractNativeLibs
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:12:9-41
+	android:label
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:8:9-36
+	android:description
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:11:9-47
+	android:theme
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:13:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:7:9-44
+meta-data#app_desc
+ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:15:9-78
+	android:value
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:15:44-76
+	android:name
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml:15:20-43
+uses-sdk
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steven\AndroidStudioProjects\FreeTAKMumla_Plugin\app\src\main\AndroidManifest.xml

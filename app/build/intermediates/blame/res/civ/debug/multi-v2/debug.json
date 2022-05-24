@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Steven\\AndroidStudioProjects\\FreeTAKMumla_Plugin\\app\\build\\intermediates\\res\\merged\\civ\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Steven\\AndroidStudioProjects\\FreeTAKMumla_Plugin\\app\\src\\main\\res\\values\\dimen.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "196",
+                        "endColumns": "39",
+                        "endOffsets": "231"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "141",
+                        "endColumns": "39",
+                        "endOffsets": "176"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Steven\\AndroidStudioProjects\\FreeTAKMumla_Plugin\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "5,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "120,80",
+                        "endColumns": "45,39",
+                        "endOffsets": "161,115"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,39",
+                        "endOffsets": "96,136"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Steven\\AndroidStudioProjects\\FreeTAKMumla_Plugin\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,12,8,7,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "145,72,605,325,249,414,471",
+                        "endColumns": "67,47,82,88,75,56,97",
+                        "endOffsets": "208,115,683,409,320,466,564"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "181,249,297,380,469,545,602",
+                        "endColumns": "67,47,82,88,75,56,97",
+                        "endOffsets": "244,292,375,464,540,597,695"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Steven\\AndroidStudioProjects\\FreeTAKMumla_Plugin\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "68,3,64,85,13,45,54,77,97,89",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3163,49,3024,4029,590,2166,2490,3669,4474,4170",
+                        "endLines": "74,10,66,87,38,51,61,81,107,93",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "3559,583,3157,4164,1990,2452,3017,3940,5057,4416"
+                    },
+                    "to": {
+                        "startLines": "12,19,27,30,33,59,66,74,79,90",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "700,1101,1640,1778,1918,3323,3614,4146,4422,5010",
+                        "endLines": "18,26,29,32,58,65,73,78,89,94",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "1096,1635,1773,1913,3318,3609,4141,4417,5005,5256"
+                    }
+                }
+            ]
+        }
+    ]
+}

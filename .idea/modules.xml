@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mumble_PTT.iml" filepath="$PROJECT_DIR$/.idea/modules/Mumble_PTT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mumble_PTT.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mumble_PTT.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mumble_PTT.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mumble_PTT.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mumble_PTT.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mumble_PTT.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mumble_PTT.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mumble_PTT.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
